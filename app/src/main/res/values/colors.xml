@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="white_50">#80FFFFFF</color>
+
+    <color name="bk_common">#F7F7F7</color>
+    <color name="bk_primary_dark">#0288D1</color>
+    <color name="bk_primary">#03A9F4</color>
+    <color name="bk_primary_light">#B3E5FC</color>
+    <color name="bk_primary_light_50">#80B3E5FC</color>
+    <color name="bk_accent">#00BCD4</color>
+
+    <color name="tx_white">#FFFFFF</color>
+    <color name="tx_primary">#212121</color>
+    <color name="tx_primary_unselected">#43212121</color>
+    <color name="tx_secondary">#727272</color>
+
+    <color name="im_divider">#40B6B6B6</color>
+
+</resources>

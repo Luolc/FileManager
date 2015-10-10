@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FileManager</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- common -->
+    <string name="common_app_name">文件管理</string>
+    <string name="common_action_refresh">刷新</string>
+    <string name="common_action_settings">设置</string>
+    <string name="common_action_overflow">菜单</string>
+    <string name="common_action_new_folder">新建文件夹</string>
+    <string name="common_divider">分隔线</string>
+    <string name="common_ic_home">主图标</string>
+    <string name="common_navigation_back">后退</string>
+
+    <!-- file_manager -->
+    <string name="file_manager_category_decription">文件分类</string>
+    <string name="file_manager_toast_exit">再按一次退出文件管理</string>
+    <string name="file_manager_toast_unable_to_open">无法打开文件</string>
+    <string name="file_manager_dialog_title_new_folder">新建文件夹</string>
+    <string name="file_manager_dialog_title_delete">确认删除？</string>
+    <string name="file_manager_dialog_delete_message">确认要删除此文件/文件夹么？</string>
+    <string name="file_manager_dialog_input_label">请输入新建文件夹名称</string>
+    <string name="file_manager_dialog_button_confirm">确定</string>
+    <string name="file_manager_dialog_button_cancel">取消</string>
+    <string name="file_manager_dialog_toast_empty">空文件名无效</string>
+    <string name="file_manager_dialog_toast_invalid_character">文件名不能包含下列任何字符：\n   / \\ : * ? \" &lt; &gt; |</string>
+    <string name="file_manager_dialog_toast_file_exist">文件夹已存在</string>
+    <string name="file_manager_dialog_toast_delete_success">删除成功</string>
+    <string name="file_manager_dialog_toast_delete_fail">删除失败</string>
+    <string name="file_manager_menu_delete">删除</string>
+</resources>
